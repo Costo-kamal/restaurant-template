@@ -1,0 +1,26 @@
+complete responsive website design using html5, css3, jquery, and javascript from scratch.
+complete responsive food/restaurant website tutorial for beginners.
+how to make complete responsive website using html, css, jquery / javascript step by step.
+
+the main feature of this website are:
+
+✔ responsive sticky header with scroll spy and double header effect.
+✔ responsive home / hero section with wave / cloud animation
+✔ responsive about section using flexbox
+✔ responsive dishes section with image filter effect
+✔ responsive chef section with team card hover effect
+✔ responsive specialty section using flexbox
+✔ responsive newsletter section
+✔ responsive footer section using flexbox.
+
+
+
+
+fonts are from google fonts:
+https://fonts.google.com/specimen/Ope...
+
+font awesome cdn link:
+https://cdnjs.com/libraries/font-awesome
+
+jquery cdn link:
+https://cdnjs.com/libraries/jquery
